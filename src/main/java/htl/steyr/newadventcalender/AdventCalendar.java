@@ -14,8 +14,6 @@ import javafx.stage.Stage;
 
 public class AdventCalendar extends Application {
 
-
-
     @Override
     public void start(Stage primaryStage) {
         primaryStage.setTitle("Advent Calendar");
